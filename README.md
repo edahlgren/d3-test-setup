@@ -24,11 +24,11 @@ $ cd YOUR_DIRECTORY
 $ http-server -c-1
 ```
 
-Open the link in your browser:
+You should see something like this:
 
 ![http-server startup output](https://raw.githubusercontent.com/edahlgren/d3-test-setup/master/http-server-startup.png)
 
-You should see a webpage with five circles:
+Go to the web address in your browser (http://127.0.0.1/8080). You should see a webpage with five circles:
 
 ![html output](https://raw.githubusercontent.com/edahlgren/d3-test-setup/master/d3-test-setup.png)
 
