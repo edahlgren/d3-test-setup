@@ -13,10 +13,9 @@ The test directory contains these files:
 | file | description         |
 | ---- | ------------------- |
 | index.html | An HTML skeleton, loads d3 |
-| data/database.json | Simple database |
+| data/database.json | A simple database of circles |
 | js/main.js | The d3.js javascript program | 
 | css/main.css | Minimal HTML styling |
-```
 
 Using the [nodejs http-server](https://www.npmjs.com/package/http-server), serve these files:
 
