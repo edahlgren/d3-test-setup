@@ -78,13 +78,12 @@ Reload the page containing the five circles. You should see them change:
 
 ## View the SVG
 
-To see the actual SVG, open the developer tools in your browser ([Firefox](https://developer.mozilla.org/en-US/docs/Tools), [Chrome](https://developers.google.com/web/tools/chrome-devtools)). From Chrome:
+To see the actual SVG, open the developer tools in your browser ([Firefox](https://developer.mozilla.org/en-US/docs/Tools), [Chrome](https://developers.google.com/web/tools/chrome-devtools)). Opened in Chrome they look like this:
 
 ![chrome dev tools](https://raw.githubusercontent.com/edahlgren/d3-test-setup/master/d3-chrome-dev-tools.png)
 
-Then under the "Elements" tab, expand the `<body>` tag, `<div>` tags, and `<svg>` tags. You should see the contents of the SVG:
+Then under the "Elements" tab, expand the `<body>` tag, `<div>` tags, and `<svg>` tags. You should finally see the contents of the SVG:
 
 ![svg contents](https://raw.githubusercontent.com/edahlgren/d3-test-setup/master/d3-elements-svg.png)
 
-Those are the basics!
-
+Those are the basics, you're good to go! Next: Read through the files in this directory to get a better sense of d3.js is loaded, and how a simple d3.js program works.
